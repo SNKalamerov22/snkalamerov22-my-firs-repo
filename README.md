@@ -1,10 +1,5 @@
 # My first repository
-
-<<<<<<< HEAD
 # This is my first repostory on GitHubGOI
-
-# Polina Dineva
-=======
 <html>
     <body>
         <div class="card-section">
