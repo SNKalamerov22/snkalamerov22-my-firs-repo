@@ -3,9 +3,6 @@
 # <!DOCTYPE html>
 
 <html>
-    <head>
-        <title>GitHub</title>
-    </head>
     <body>
         <h1>This is GitHub</h1>
         <ul>
